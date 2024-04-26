@@ -86,7 +86,7 @@ header nav {
 }
 
 .cover-1 {
-  background-image: url("/photos/colonne.jpg");
+  background-image: url("./photos/colonne.jpg");
   background-size: cover;
   background-position: bottom;
   min-height: 60vh;
