@@ -45,7 +45,7 @@ header nav {
 }
 
 .cover {
-  background-image: url("/photos/dos2.jpeg");
+  background-image: url("./photos/dos2.jpeg");
   background-size: cover;
   background-position: bottom;
   min-height: 100vh;
